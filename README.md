@@ -22,7 +22,7 @@ logisim WatchLogisim.circ
 
 
 <p align="center">
-<img src="https://github.com/MikhailCherepanovD/WatchAutomaticBased/blob/master/Proccessing.gif" alt="" width="400"/>
+<img src="https://github.com/MikhailCherepanovD/WatchAutomaticBased/blob/master/Processing.gif" alt="" width="400"/>
 </p>
 
 ## Documentation in Russian language:
