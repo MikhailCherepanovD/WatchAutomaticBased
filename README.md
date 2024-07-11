@@ -14,7 +14,7 @@ logisim WatchLogisim.circ
 ## State machine
 
 <p align="center">
-<img src="https://github.com/MikhailCherepanovD/WatchAutomaticBased/blob/master/Automatic.png" alt="" width="400"/>
+<img src="https://github.com/MikhailCherepanovD/WatchAutomaticBased/blob/master/Automatic.png" alt="" width="600"/>
 </p>
 
 
@@ -22,7 +22,7 @@ logisim WatchLogisim.circ
 
 
 <p align="center">
-<img src="https://github.com/MikhailCherepanovD/WatchAutomaticBased/blob/master/Processing.gif" alt="" width="400"/>
+<img src="https://github.com/MikhailCherepanovD/WatchAutomaticBased/blob/master/Processing.gif" alt="" width="600"/>
 </p>
 
 ## Documentation in Russian language:
